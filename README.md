@@ -1,8 +1,11 @@
 <div align="center">
 
-# Ritvik Reddy Gangula
+![Project Screenshot](assets/name-banner.png)
+</div>
+<div>
 
-Software Engineer building RAG pipelines, agent evals, and MCP servers. C#/.NET on Azure, Go on AWS.
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1500&color=6E6E6E&center=true&vCenter=true&width=850&lines=Software+Engineer+building+RAG+pipelines%2C+agent+evals%2C+and+MCP+servers.;C%23%2F.NET+on+Azure%2C+Go+on+AWS.)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gritvik)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ritvikreddy.dev)
@@ -16,7 +19,7 @@ CS student at Arizona State University (4.0 GPA, Dean's List x6), graduating May
 
 - Interned this summer at **GCM Grosvenor**, where I engineered an LLM-powered insights feature on Azure OpenAI (GPT-4o, Azure AI Search) that synthesized client reports across 500+ portfolios at 1.5s median retrieval time, saving 560 hours of team effort per quarter.
 - Building **DeltaLedger MCP**, a RAG pipeline over SEC EDGAR filings feeding a three-agent LangGraph system (Aligner, Classifier, Verifier), shipped as an MCP server and REST API on AWS Lambda/Step Functions, validated against a CI-integrated golden eval set.
-- Building **Forge**, a distributed job orchestrator in Go implementing Raft consensus for leader election and Kafka-backed event sourcing for crash recovery — recovers 15/15 in-flight jobs with zero data loss and sub-500ms leader failover across 5 induced failures.
+- Building **Forge**, a distributed job orchestrator in Go implementing Raft consensus for leader election and Kafka-backed event sourcing for crash recovery, recovers 15/15 in-flight jobs with zero data loss and sub-500ms leader failover across 5 induced failures.
 - 4.0 GPA at Arizona State University, Dean's List x6.
 - AWS Certified Cloud Practitioner (CLF-C02).
 
