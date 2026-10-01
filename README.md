@@ -75,13 +75,3 @@ CS student at Arizona State University (4.0 GPA, Dean's List x6), graduating May
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![CrewAI](https://img.shields.io/badge/CrewAI-FF6B35?style=for-the-badge)
 ![LLM APIs](https://img.shields.io/badge/LLM%20APIs-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-## GitHub Stats
-
-<div align="center">
-
-![Ritvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=ritvikreddygangula&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ritvikreddygangula&layout=compact&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ritvikreddygangula&hide_border=true)
-
-</div>
